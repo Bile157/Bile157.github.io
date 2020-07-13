@@ -8,10 +8,12 @@
   border: none;
   user-select: none;
   outline: 0;
+  overflow: hidden;
 }
 body {
   background-color: #FF0050;
   background-image: url('bg.svg');
   background-position: center;
   background-size: cover;
+  overflow: hidden;
 }
